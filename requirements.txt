@@ -1,0 +1,8 @@
+colorama==0.4.4
+commonmark==0.9.1
+pkg-resources==0.0.0
+Pygments==2.9.0
+PyYAML==5.4.1
+rich==10.1.0
+tinydb==4.4.0
+typing-extensions==3.10.0.0
